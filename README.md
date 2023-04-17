@@ -2,7 +2,8 @@
 - 🔭 I’m currently working on [Daijishō](https://github.com/TapiocaFox/Daijishou).
 - 🌏 I'm from Taiwan, Formosa.
 - 🧐 I've meddled with `JavaScript`, `React.js`, `Python`, `Kotlin`, `Machine Learning`, `Micro Service`.
-- 🌱 I’m currently interested to learn `Rust`, `Quant Finance`.
+- 🌱 I’m currently interested to learn `Rust`, `Quant Finance`. 
+- 🌱 Also I was interested to build a [Service System](https://github.com/NoXerve/NoXerve). But got no time for that currently.
 - ⚡ You can try the [Reversi](https://nooxy.org/noversi) powered by ML made by me. 😄 
 - 😏 I use Arch Linux btw.
 
