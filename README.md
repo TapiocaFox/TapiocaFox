@@ -1,5 +1,9 @@
 ### Hi there 👋
 - 🔭 I’m currently working on [Daijishō](https://github.com/TapiocaFox/Daijishou).
+- 🌏 I'm from Taiwan, Formosa.
+- 🧐 I've meddled with `JavaScript`, `Python`, `Kotlin`, `Machine Learning`.
+- 🌱 I’m currently interested to learn `Rust`, `Quant Finance`.
+- ⚡ You can try the [Reversi](https://nooxy.org/noversi) powered by ML made by me. 😄 
 
 <!--
 **TapiocaFox/TapiocaFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
