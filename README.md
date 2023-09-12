@@ -9,7 +9,7 @@
 
 Some of my Digital Arts:
 
-<img src="/imgs/manual_cover.png" height="400" style="border-radius:12px"> <img src="/imgs/the_snake.PNG" height="260" style="border-radius:12px"> 
+<img src="/imgs/manual_cover.png" height="400" style="border-radius:12px">&nbsp;&nbsp;<img src="/imgs/the_snake.PNG" height="260" style="border-radius:12px"> 
 
 <!-- ![](/imgs/the_snake.PNG) -->
 
