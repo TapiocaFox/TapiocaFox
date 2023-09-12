@@ -7,9 +7,9 @@
 - ⚡ You can try the [Reversi](https://nooxy.org/noversi) powered by ML and service framework made by me. 😄 
 - 😏 I use Arch Linux btw.
 
-One of my Digital Sketches:
+One of my Digital Arts:
 
-<img src="/imgs/the_snake.PNG" width="360" style="border-radius:12px">
+<img src="/imgs/manual_cover.png" height="400" style="border-radius:12px"> <img src="/imgs/the_snake.PNG" height="260" style="border-radius:12px"> 
 
 <!-- ![](/imgs/the_snake.PNG) -->
 
