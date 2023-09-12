@@ -9,7 +9,8 @@
 
 One of my Digital Arts:
 
-<img src="/imgs/the_snake.PNG" width="400">
+<img src="/imgs/the_snake.PNG" width="400" style="border-radius:12px">
+
 <!-- ![](/imgs/the_snake.PNG) -->
 
 <!--
