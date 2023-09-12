@@ -7,7 +7,7 @@
 - ⚡ You can try the [Reversi](https://nooxy.org/noversi) powered by ML and service framework made by me. 😄 
 - 😏 I use Arch Linux btw.
 
-One of my Digital Arts:
+One of my Digital Sketches:
 
 <img src="/imgs/the_snake.PNG" width="360" style="border-radius:12px">
 
