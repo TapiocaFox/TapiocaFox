@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on [Daijishō](https://github.com/TapiocaFox/Daijishou). And I am interested in `Computer Graphics`, `Geometric Modeling` and `Virtual Reality`.
+- 🔭 I’m currently working on [Daijishō](https://github.com/TapiocaFox/Daijishou). Also focusing on `Computer Graphics`, `Geometric Modeling` and `Virtual Reality`.
 - 🌏 I'm from Taiwan, Formosa.
 - 🧐 I've meddled with `C`, `C++`, `JavaScript`, `React.js`, `Python`, `Kotlin`, `Machine Learning`, `Microservice`, `Embbeded System (IoT)`.
 - 🌱 I’m currently interested to learn `Rust`, `Computer Graphics` , `Svelte` and `GLSL`. 
