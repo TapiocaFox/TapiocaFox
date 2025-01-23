@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m the creator of the `Retro Game Management Software` [Daijishō](https://github.com/TapiocaFox/Daijishou) (~1M Total Users).
 - 💪 Currently focusing on `Computer Graphics` and `Virtual Reality`.
-- 🧐 I've meddled with `C`, `C++`, `JavaScript`, `React.js`, `Python`, `Kotlin`, `Machine Learning`, `Microservice`, `Embbeded System (IoT)`, `Geometric Modeling`.
+- 🧐 I've meddled with `C`, `C++`, `JavaScript`, `React.js`, `Kotlin`, `ML`, `RL`, `Microservice`, `Embbeded System (IoT)`, `Geometric Modeling`.
 - 🌱 I’m currently interested to learn `Rust`, `Svelte`, `Procedural Generation` and `GLSL`.
 - 🛩️ Arch Linux as my daily driver for 8 years. Consider myself as multidisciplinary developer. 
 
