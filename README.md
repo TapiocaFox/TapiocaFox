@@ -1,12 +1,16 @@
 ### Hi there 👋
-- 🔭 I’m currently working on [Daijishō](https://github.com/TapiocaFox/Daijishou). Also focusing on `Computer Graphics` and `Virtual Reality`.
-- 🌏 I'm from Taiwan, Formosa.
+- 🔭 I’m the creator of the `Retro Game Management Software` [Daijishō](https://github.com/TapiocaFox/Daijishou) (~1M Total Users).
+- 💪 Currently focusing on `Computer Graphics` and `Virtual Reality`.
 - 🧐 I've meddled with `C`, `C++`, `JavaScript`, `React.js`, `Python`, `Kotlin`, `Machine Learning`, `Microservice`, `Embbeded System (IoT)`, `Geometric Modeling`.
-- 🌱 I’m currently interested to learn `Rust`, `Svelte`, `Procedural Generation` and `GLSL`. 
-- 🌱 Also I was interested to build a [Service System](https://github.com/NoXerve/NoXerve). But got no time for that currently.
-- ⚡ You can try the [Reversi](https://nooxy.org/noversi) powered by ML and service framework made by me. 😄 
+- 🌱 I’m currently interested to learn `Rust`, `Svelte`, `Procedural Generation` and `GLSL`.
 - 😏 I use Arch Linux btw.
 
+#### I also build projects like:
+- [NoXerve](https://github.com/NoXerve/NoXerve): A "Service System" similar to CMS and Microservice that supports remote function call, with database and connection types abstraction.
+- [Reversi](https://github.com/TapiocaFox/Noversi): powered by ML and service framework mentioned above.
+- [Note-G](https://github.com/TapiocaFox/Note-G): A portable music game console made with Arduino UNO. You can edit your music sheet on web and upload it to Arduino through bluetooth. Format like Open Music XML is supported.
+
+<!-- - 🌏 I'm from Taiwan, Formosa. -->
 Some of my Digital Arts:
 
 <img src="/imgs/manual_cover.png" height="220">&nbsp;&nbsp;<img src="/imgs/the_snake.PNG" height="220">&nbsp;&nbsp;<img src="/imgs/2020.png" height="220"> 
