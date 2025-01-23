@@ -13,8 +13,7 @@
 
 
 <!-- - 🌏 I'm from Taiwan, Formosa. -->
-Some of my Digital Arts:
-
+#### Some of my Digital Arts:
 <img src="/imgs/manual_cover.png" height="220">&nbsp;&nbsp;<img src="/imgs/the_snake.PNG" height="220">&nbsp;&nbsp;<img src="/imgs/2020.png" height="220"> 
 
 <!-- ![](/imgs/the_snake.PNG) -->
