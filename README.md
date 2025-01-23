@@ -3,7 +3,7 @@
 - 💪 Currently focusing on `Computer Graphics` and `Virtual Reality`.
 - 🧐 I've meddled with `C`, `C++`, `JavaScript`, `React.js`, `Python`, `Kotlin`, `Machine Learning`, `Microservice`, `Embbeded System (IoT)`, `Geometric Modeling`.
 - 🌱 I’m currently interested to learn `Rust`, `Svelte`, `Procedural Generation` and `GLSL`.
-- 😏 I use Arch Linux btw.
+- 🛩️ Arch Linux as my daily driver for 8 years. Consider myself as multidisciplinary developer. 
 
 #### I've also built projects like:
 - [NoXerve](https://github.com/NoXerve/NoXerve): A "Service System" similar to CMS and Microservice that supports remote function call, with database and connection types abstraction.
