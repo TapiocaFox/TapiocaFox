@@ -7,8 +7,10 @@
 
 #### I've also built projects like:
 - [NoXerve](https://github.com/NoXerve/NoXerve): A "Service System" similar to CMS and Microservice that supports remote function call, with database and connection types abstraction.
-- [Noversi](https://github.com/TapiocaFox/Noversi): Reversi game powered by ML purely in NumPy and the "Service System" mentioned above.
+- [Noversi](https://github.com/TapiocaFox/Noversi): Reversi game powered by ML written [purely in NumPy](https://github.com/TapiocaFox/NodeNet) and the "Service System" mentioned above.
 - [Note-G](https://github.com/TapiocaFox/Note-G): A portable music game console made with Arduino UNO. You can edit your music sheet on web and upload it to Arduino through bluetooth. Format like Open Music XML is supported.
+- [Talksy](https://github.com/NOOXY-research/Talksy): A full-stack chat application with channel and permission control on top of the "Service System" mentioned above.
+
 
 <!-- - 🌏 I'm from Taiwan, Formosa. -->
 Some of my Digital Arts:
