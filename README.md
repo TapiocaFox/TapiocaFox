@@ -14,7 +14,7 @@
 <!-- ![](/imgs/the_snake.PNG) -->
 
 #### My projects:
-Please visit [tapiocafox.com](https://tapiocafox.com/projects) to learn more about my projects. Including personal works and demos.
+Please visit <a href="https://tapiocafox.com/projects" target="_blank">tapiocafox.com</a> to learn more about my projects. Including personal works and demos.
 
 <!-- #### I've also built projects like:
 - [NoXerve](https://github.com/NoXerve/NoXerve): A "Service System" similar to CMS and Microservice that supports remote function call, with database and connection-type abstraction. It provides "nodejs" and "python3" environment and eliminate service designer to care about low level part of your project. Such as authorization, user system, database, protocol and so on.
