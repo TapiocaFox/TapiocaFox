@@ -13,7 +13,7 @@
 
 <!-- ![](/imgs/the_snake.PNG) -->
 
-Visit [tapiocafox.com](https://tapiocafox.com)
+Please visit [tapiocafox.com](https://tapiocafox.com).
 
 <!-- #### I've also built projects like:
 - [NoXerve](https://github.com/NoXerve/NoXerve): A "Service System" similar to CMS and Microservice that supports remote function call, with database and connection-type abstraction. It provides "nodejs" and "python3" environment and eliminate service designer to care about low level part of your project. Such as authorization, user system, database, protocol and so on.
