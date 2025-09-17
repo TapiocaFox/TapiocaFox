@@ -13,6 +13,7 @@
 
 <!-- ![](/imgs/the_snake.PNG) -->
 
+#### Projects:
 Please visit [tapiocafox.com](https://tapiocafox.com/projects) to learn more about my projects.
 
 <!-- #### I've also built projects like:
