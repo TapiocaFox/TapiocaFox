@@ -3,7 +3,7 @@
 - 💪 Currently focusing on `Computer Graphics`.
 - 🧐 I've meddled with `C`, `C++`, `JavaScript`, `React.js`, `Kotlin`, `ML`, `RL`, `Microservice`, `Embbeded System (IoT)`, `Geometric Modeling`.
 - 🌱 Interested in `Rust`, `Svelte`, `Procedural Generation` and `GLSL`.
-- 🛩️ Arch Linux as my daily driver for 8 years. Consider myself as multidisciplinary developer. 
+- 🛩️ Consider myself as a multidisciplinary developer. Visit [tapiocafox.com](https://tapiocafox.com/projects) to learn more about my works and demos.
 
 
 
@@ -12,8 +12,6 @@
 <img src="/imgs/manual_cover.png" height="220">&nbsp;&nbsp;<img src="/imgs/the_snake.PNG" height="220">&nbsp;&nbsp;<img src="/imgs/2020.png" height="220"> 
 
 <!-- ![](/imgs/the_snake.PNG) -->
-
-Please visit [tapiocafox.com](https://tapiocafox.com/projects) to learn more about my projects. Including personal works and demos.
 
 <!-- #### I've also built projects like:
 - [NoXerve](https://github.com/NoXerve/NoXerve): A "Service System" similar to CMS and Microservice that supports remote function call, with database and connection-type abstraction. It provides "nodejs" and "python3" environment and eliminate service designer to care about low level part of your project. Such as authorization, user system, database, protocol and so on.
