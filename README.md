@@ -2,14 +2,14 @@
 - 🔭 I’m the creator of the `Retro Game Management Software` [Daijishō](https://github.com/TapiocaFox/Daijishou) (~1M Total Users).
 - 💪 Currently focusing on `Computer Graphics`.
 - 🧐 I've meddled with `C`, `C++`, `JavaScript`, `React.js`, `Kotlin`, `ML`, `RL`, `Microservice`, `Embbeded System (IoT)`, `Geometric Modeling`.
-- 🌱 Interested in `Rust`, `Svelte`, `Procedural Generation` and `GLSL`.
-- 🛩️ Consider myself as a multidisciplinary developer. Visit [tapiocafox.com](https://tapiocafox.com/projects) to learn more about my works and demos.
-
-
+- 🌱 Interested in `Rust`, `Svelte`, `Procedural Generation` and `WebGL`.
+- 🛩️ Consider myself as a multidisciplinary developer. 
 
 <!-- - 🌏 I'm from Taiwan, Formosa. -->
 #### Some of my Digital Arts:
 <img src="/imgs/manual_cover.png" height="220">&nbsp;&nbsp;<img src="/imgs/the_snake.PNG" height="220">&nbsp;&nbsp;<img src="/imgs/2020.png" height="220"> 
+
+Visit [tapiocafox.com](https://tapiocafox.com/projects) to learn more about my works and demos.
 
 <!-- ![](/imgs/the_snake.PNG) -->
 
