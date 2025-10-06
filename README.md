@@ -2,7 +2,7 @@
 - 🎯 I’m the creator of the `Retro Game Management Software` [Daijishō](https://github.com/TapiocaFox/Daijishou) (~1M Total Users).
 - 💻 Currently focusing on `Computer Graphics`.
 - 👀 Interested in `Rust` and `Procedural Generation`.
-- 👷‍♂️ Meddled with `C`, `C++`, `Kotlin`, `Android`, `JavaScript`, `React.js`, `Svelte`, `Microservice`, `Embbeded System (IoT)`, `WebGL`, `Geometric Modeling` and `Machine Learning`.
+- 👷‍♂️ Meddled with `C/C++`, `Kotlin`, `Android`, `JavaScript`, `React.js`, `Svelte`, `Microservice`, `Embbeded System (IoT)`, `WebGL`, `Geometric Modeling` and `Machine Learning`.
 
 <!-- Consider myself as a multidisciplinary developer. 🤓☝️ -->
 
