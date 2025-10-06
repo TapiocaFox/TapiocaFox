@@ -1,4 +1,4 @@
-### Hi there, I'm TapiocaFox
+### Hi there
 - 🎯 I’m the creator of the `Retro Game Management Software` [Daijishō](https://github.com/TapiocaFox/Daijishou) (~1M Total Users).
 - 💻 Currently focusing on `Computer Graphics`.
 - 👀 Also interested in `Rust` and `Procedural Generation`.
