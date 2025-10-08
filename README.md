@@ -11,7 +11,7 @@
 <!-- #### Some of my Digital Arts: -->
 <img src="/imgs/manual_cover.png" height="220">&nbsp;&nbsp;<img src="/imgs/the_snake.PNG" height="220">&nbsp;&nbsp;<img src="/imgs/2020.png" height="220"> 
 
-Please visit [tapiocafox.com](https://tapiocafox.com/projects) to learn more about my projects and demos. 
+Please visit [tapiocafox.com](https://tapiocafox.com/projects) to learn about my projects interactively. 
 
 <!-- ![](/imgs/the_snake.PNG) -->
 
