@@ -3,7 +3,7 @@
 - 💻 Currently focusing on `Computer Graphics`.
 - 👀 Also interested in `Rust` and `Procedural Generation`.
 - 👷‍♂️ I've meddled with `Android`, `React.js`, `Svelte`, `Microservice`, `Embbeded System (IoT)`, `SysAdmin`, `WebGL`, `Geometric Modeling` and `Machine Learning`.
-
+- No longer an Arch Linux user after eight consecutive years. 🤓☝️
 <!-- Consider myself as a multidisciplinary developer. 🤓☝️ -->
 
 
