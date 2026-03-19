@@ -1,6 +1,6 @@
 ### Hi there
 
-I’m the creator of the `Retro Game Management Software` [Daijishō](https://github.com/TapiocaFox/Daijishou), with over 1M total downloads.
+🎯 I’m the creator of the `Retro Game Management Software` [Daijishō](https://github.com/TapiocaFox/Daijishou), with over 1M total downloads.
 
 My experience spans `Android (Daijishō)`, `Svelte (WebGL editor)`, `Rust`, `Microservices (in-house framework)`, and `Embedded System (ESP32)`. I also work with `System Administration (Linux, FreeBSD, Cisco...)`, `Graphics (WebGL, Geometric Modeling)`, and `ML (PPO, ViT, YOLO...)`, among other areas.
 
