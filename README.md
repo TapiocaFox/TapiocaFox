@@ -4,7 +4,7 @@
 
 My experience spans `Android`, `Svelte`, `Rust`, `Microservices (in-house framework)`, `Embedded System (ESP32)`. I also work with `System Administration (Linux, FreeBSD, Cisco...)`, `Computer Graphics (WebGL, Geometric Modeling)`, and `Machine Learning (PPO, ViT, YOLO...)`, among other areas. Now collecting new ideas for my next project in Rust 🦀.
 
-BTW, after eight consecutive years, I’m no longer an Arch Linux user. 🤓☝️
+After eight consecutive years, I’m no longer an Arch Linux user. 🤓☝️
 
 
 <!-- - 🌏 I'm from Taiwan, Formosa. -->
