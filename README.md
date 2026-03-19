@@ -1,7 +1,7 @@
 ### Hi there
 - 🎯 I’m the creator of the `Retro Game Management Software` [Daijishō](https://github.com/TapiocaFox/Daijishou) (~1M Total Downloads).
 - 👀 Currently focusing on `Embbeded System` and `Rust`.
-- 👷‍♂️ Meddled with `Android (Daijishō)`, `React`, `Svelte (WebGL Editor)`, `Microservice (In-House Framework)`, `Embbeded System (ESP32)`, `SysAdmin (Linux, FreeBSD, Cisco...)`, `Graphics (WebGL, Geometric Modeling)` and `Machine Learning (PPO, ViT, YOLO...)`.
+- 👷‍♂️ Meddled with `Android (Daijishō)`, `Svelte (WebGL Editor)`, `Microservice (In-House Framework)`, `Embbeded System (ESP32)`, `SysAdmin (Linux, FreeBSD, Cisco...)`, `Graphics (WebGL, Geometric Modeling)` and `Machine Learning (PPO, ViT, YOLO...)`.
 - No longer an Arch Linux user after eight consecutive years. 🤓☝️
 <!-- Consider myself as a multidisciplinary developer. 🤓☝️ -->
 
